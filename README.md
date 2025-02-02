@@ -143,35 +143,6 @@ The Flash Card Quiz App is a learning tool that allows users to create flashcard
 
     Multiplayer quiz mode
     Voice-based answers
-# Installation
-[python --version  # or python3 --version on macOS/Linux
-python -m tkinter
-pip install flask
-pip install django
-flask --version  # For Flask
-django-admin --version  # For Django
-pip install pyinstaller
-pip install pygame  # For advanced sound features
-]
-
-# Run
-[cd path/to/your/project
-python flashcard.py  # On Windows/macOS/Linux
-python3 flashcard.py  # On macOS/Linux (if Python 2 is the default)
-cd path/to/your/flask_project
-python app.py  # Replace app.py with your Flask app file name
-export FLASK_APP=app.py  # For macOS/Linux
-flask run                # Run the app on the default localhost
-set FLASK_APP=app.py  # For Windows Command Prompt
-flask run
-cd path/to/your/django_project
-python flashcard.py
-python app.py
-pyinstaller --onefile --windowed flashcard.py
-]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](./screenshot/photo1.png)
@@ -197,8 +168,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](./)
-
+https://drive.google.com/file/d/1i-MgvU3MaGfMINBl8pYuifsib6pEYxHw/view?usp=sharing
 
 ![Components](Add photo of your components here)
 *List out all components shown*
@@ -211,14 +181,17 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://www.loom.com/share/7af4160b65d5400fa675c3ea24e3824b?sid=fed3323c-599a-495c-8007-f19bbd8082fe
+
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
--Kripa Mariya Paul full cont
-
+-Kripa Mariya Paul 
+Developed the Tkinter-based GUI
+Implemented quiz logic and timer
+Integrated difficulty levels
+Built the scoring system
 ---
 Made with ❤️ at TinkerHub
