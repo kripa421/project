@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [Flash card app] 🎯
 
 
 ## Basic Details
